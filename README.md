@@ -2,6 +2,7 @@
 
 ## Contributor(s):
 1. Paul Ogawa (https://github.com/Pogawa)
+2. Frank Johnson (https://github.com/Gene5ive)
 
 
 ##Date: Started June 3rd, 2015
