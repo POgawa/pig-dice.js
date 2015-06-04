@@ -1,4 +1,4 @@
-#Epiwiki
+#Pig Dice
 
 ## Contributor(s):
 1. Paul Ogawa (https://github.com/Pogawa)
